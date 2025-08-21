@@ -1,14 +1,20 @@
+import Example from './Use Effect Hooks/Example';
+import UseEffectExample from './Use Effect Hooks/UseEffectExample';
 import Counter from './Use State Hooks/Counter';
 import Textinput from './Use State Hooks/TextInput';
 import Toggle from './Use State Hooks/Toggle';
-import UseStateExample from './Use State Hooks/UseStateExample';
 
 function App() {
   return (
     <>
-      <Counter />
+      {/* Use State Effect Component */}
+      {/* <Counter />
       <Toggle />
-      <Textinput />
+      <Textinput /> */}
+
+      {/* Use Effect Component */}
+
+      <Example />
     </>
   );
 }
