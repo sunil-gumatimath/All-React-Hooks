@@ -1,7 +1,7 @@
-import Counter from './UseState Hook/Counter';
-import Textinput from './UseState Hook/TextInput';
-import Toggle from './UseState Hook/Toggle';
-import UseStateExample from './UseState Hook/UseStateExample';
+import Counter from './Use State Hooks/Counter';
+import Textinput from './Use State Hooks/TextInput';
+import Toggle from './Use State Hooks/Toggle';
+import UseStateExample from './Use State Hooks/UseStateExample';
 
 function App() {
   return (
