@@ -3,7 +3,6 @@ import UseEffectExample from '../Use Effect Hooks/UseEffectExample';
 
 function Textinput() {
   const [text, setText] = useState('');
-  const [toggle, setToggle] = useState(true);
   return (
     <div>
       <input
